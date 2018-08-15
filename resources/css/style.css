@@ -1,10 +1,10 @@
 html {
     background-color: black;
     text-align: center;
+    font-family: verdana;
 }
 
 h1 {
-    font-family: verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -13,4 +13,19 @@ h1 {
 .hyperadj {
     color: aquamarine;
     font-size: 16px;
+}
+
+h2, h3 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+.imggap {
+    padding-top: 30px;
 }
